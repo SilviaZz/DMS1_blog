@@ -11,7 +11,7 @@ _underline_
 ![description](/static/w01s1/1.png)
 
 **A wide machine, dispensing beverages from a far away land**
-Vending machine which can help thirsty me in the future 
+Vending machine which can help thirsty me in the future
 
 ![description](/static/w01s1/2.png)
 

@@ -1,10 +1,11 @@
 ---
 title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+published_at: 2024-03-05
+snippet: First Digital Media Studio Class Scavenger Hunt
 ---
 
-Hello, world!
+In today's class we played Scavenger Hunt in a group of for James, Kyana and Josh and myself. Nice people love them!
+
 
 # This is h1
 
@@ -13,3 +14,4 @@ Hello, world!
 _underline_
 
 **bold**
+## This is h2

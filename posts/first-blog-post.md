@@ -15,4 +15,4 @@ _underline_
 
 **bold**
 ## This is h2
-![description](/w01s1/1.png)
+![description](/static/w01s1/1.png)
